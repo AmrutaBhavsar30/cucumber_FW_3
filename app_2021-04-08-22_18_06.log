@@ -1,3 +1,0 @@
-2021-Apr-08 22:19:05 pm [main] INFO  com.visionit.automation.stepdefs.StepDefs - 2driver navigated to base url :http://automationpractice.com/
-2021-Apr-08 22:19:05 pm [main] INFO  com.visionit.automation.stepdefs.StepDefs - app main page
-2021-Apr-08 22:19:05 pm [main] INFO  com.visionit.automation.assigmentObject.AssignmentObjects - URL redirection is passed :http://automationpractice.com/index.php
